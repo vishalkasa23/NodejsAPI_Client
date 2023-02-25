@@ -1,13 +1,13 @@
 const express = require("express");
 const app = express();
-//const crouse=require("./Crousal/Crouse.json")
+const crouse=require("./Crousal/Crouse.json")
 const building=require("./WFO/Building.json")
 const Holiday=require("./Holiday/MultiHoliday.json")
 const city=require("./Holiday/city.json")
- const foodlist=require("./Cafeteria/foodlist.json")
- const cityfood=require("./Cafeteria/cityfood.json")
- const techStacks=require("./Upskill/techStacks.json")
- const techStackstype=require("./Upskill/techStackType.json")
+const foodlist=require("./Cafeteria/foodlist.json")
+const cityfood=require("./Cafeteria/cityfood.json")
+const techStacks=require("./Upskill/techStacks.json")
+const techStackstype=require("./Upskill/techStackType.json")
  //const courses=require("./courses")
  let port = process.env.PORT || 3000;
 
@@ -15,9 +15,9 @@ app.get("/", (req,res)=>{
     res.send("Hello World")
 });
 
-// app.get("/crouse",(req,res)=>{
-//     res.send(crouse)
-// })
+app.get("/crouse",(req,res)=>{
+    res.send(crouse)
+})
 app.get("/building",(req,res)=>{
     res.send(building)
 })

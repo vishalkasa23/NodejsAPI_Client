@@ -1,7 +1,7 @@
 const express = require("express");
 const app = express();
 //const crouse=require("./Crousal/Crouse.json")
-// const building=require("./WFO/Building.json")
+const building=require("./WFO/Building.json")
 // const Holiday=require("./Holiday/MultiHoliday.json")
 // const city=require("./Holiday/city.json")
  const foodlist=require("./Cafeteria/foodlist.json")
@@ -18,9 +18,9 @@ app.get("/", (req,res)=>{
 // app.get("/crouse",(req,res)=>{
 //     res.send(crouse)
 // })
-// app.get("/building",(req,res)=>{
-//     res.send(building)
-// })
+app.get("/building",(req,res)=>{
+    res.send(building)
+})
 // app.get("/holiday",(req,res)=>{
 //     res.send(Holiday)
 // })

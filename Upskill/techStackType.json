@@ -2,26 +2,27 @@
     {
         "id":"1",
         "techStackType":"All Trainings",
-        "img":"https://firebasestorage.googleapis.com/v0/b/employeeexperience-f3377.appspot.com/o/UpSkill%2Ftraining.png?alt=media&token=e7e5396f-3987-4ddb-a2f6-a7d0a8860618"
+        "img":"https://firebasestorage.googleapis.com/v0/b/employeeexperience-9f0e2.appspot.com/o/upskill%2Ftraining.png?alt=media&token=26690875-4492-45d4-a11d-08860e4f5204"
     },
     {
         "id":"2",
         "techStackType":"Technical",
-        "img":"https://firebasestorage.googleapis.com/v0/b/employeeexperience-f3377.appspot.com/o/UpSkill%2Ftech.png?alt=media&token=b84c0a7c-5cb4-4279-a81b-201fb4d0b129"
+        "img":"https://firebasestorage.googleapis.com/v0/b/employeeexperience-9f0e2.appspot.com/o/upskill%2Ftech.png?alt=media&token=7101b396-5660-4b83-a00a-e7d2bd38cb5b"
+    
     },
     {
         "id":"3",
         "techStackType":"Communication",
-        "img":"https://firebasestorage.googleapis.com/v0/b/employeeexperience-f3377.appspot.com/o/UpSkill%2Fcomm.png?alt=media&token=7f7bfbc3-33e8-47cc-bfbc-b015cb8b6691"
+        "img":"https://firebasestorage.googleapis.com/v0/b/employeeexperience-9f0e2.appspot.com/o/upskill%2Fcomm.png?alt=media&token=2eb80c2d-0143-4301-9a8c-9fef1ecfcbd8"
     },
     {
         "id":"4",
         "techStackType":"Management",
-        "img":"https://firebasestorage.googleapis.com/v0/b/employeeexperience-f3377.appspot.com/o/UpSkill%2Fmgmt.png?alt=media&token=db82db36-c9a3-46a2-b4e4-5322068e37f1"
+        "img":"https://firebasestorage.googleapis.com/v0/b/employeeexperience-9f0e2.appspot.com/o/upskill%2Fmgmt.png?alt=media&token=0010429b-05e8-4df6-96bd-c3d9aa02f1b8"
     },
     {
         "id":"5",
         "techStackType":"Soft Skill",
-        "img":"https://firebasestorage.googleapis.com/v0/b/employeeexperience-f3377.appspot.com/o/UpSkill%2Fsoftskill.png?alt=media&token=1bc020bf-2ae0-49e0-a9c2-f678d20cb6b8"
+        "img":"https://firebasestorage.googleapis.com/v0/b/employeeexperience-9f0e2.appspot.com/o/upskill%2Fsoftskill.png?alt=media&token=bf50e169-0c3b-42e0-a02a-ced83fa48552"
     }
 ]

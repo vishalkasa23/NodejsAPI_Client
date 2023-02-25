@@ -3,56 +3,56 @@
     {
         "id":"1",
         "city":"All Cities",
-        "img":"https://firebasestorage.googleapis.com/v0/b/employeeexperience-f3377.appspot.com/o/Locations%2FAllcities.png?alt=media&token=f7bb9a1a-f287-41e5-b52a-50816d0035ed"
+        "img":"https://firebasestorage.googleapis.com/v0/b/employeeexperience-9f0e2.appspot.com/o/cities%2Fmap.png?alt=media&token=41f67951-accd-46e1-9016-186062cdd811"
     },
     {
         "id":"2",
         "city":"Bengaluru",
-        "img":"https://firebasestorage.googleapis.com/v0/b/employeeexperience-f3377.appspot.com/o/Locations%2Fbangalore.jpeg?alt=media&token=821f2d08-8e9c-404d-aca4-bf52230e35ac"
+        "img":"https://firebasestorage.googleapis.com/v0/b/employeeexperience-9f0e2.appspot.com/o/cities%2Fbanglore.jpg?alt=media&token=dde69299-ab72-486d-9bf9-855126084272"
     },
     {
         "id":"3",
         "city":"Bhopal",
-        "img":"https://firebasestorage.googleapis.com/v0/b/employeeexperience-f3377.appspot.com/o/Locations%2FBhopal.webp?alt=media&token=e1968ab6-e7ca-458d-9727-57a221a552b1"
+        "img":"https://firebasestorage.googleapis.com/v0/b/employeeexperience-9f0e2.appspot.com/o/cities%2FBhopal.jpg?alt=media&token=9791d972-cb1d-4feb-bf7b-76ac2df616a2"
     },
     {
         "id":"4",
         "city":"Goa",
-        "img":"https://firebasestorage.googleapis.com/v0/b/employeeexperience-f3377.appspot.com/o/Locations%2FGoa.jpeg?alt=media&token=36b1109f-c2a4-478e-9945-4b28037d580c"
+        "img":"https://firebasestorage.googleapis.com/v0/b/employeeexperience-9f0e2.appspot.com/o/cities%2FGoa.png?alt=media&token=94adeeee-9ae6-480d-aa91-e251d0912d03"
     },
     {
         "id":"5",
         "city":"Gurgaon",
-        "img":"https://firebasestorage.googleapis.com/v0/b/employeeexperience-f3377.appspot.com/o/Locations%2FGurgaon.jpeg?alt=media&token=29075458-3447-4321-abf8-d8e37678d05e"
+        "img":"https://firebasestorage.googleapis.com/v0/b/employeeexperience-9f0e2.appspot.com/o/cities%2Fgurgao.png?alt=media&token=65e4e7f9-74bb-4669-bc66-a0b6cbe7af7a"
     },
     {
         "id":"6",
         "city":"Hyderabad",
-        "img":"https://firebasestorage.googleapis.com/v0/b/employeeexperience-f3377.appspot.com/o/Locations%2Fhyderabad.jpeg?alt=media&token=6126882d-d1fb-4f93-9b06-c2daa38b07d3"
+        "img":"https://firebasestorage.googleapis.com/v0/b/employeeexperience-9f0e2.appspot.com/o/cities%2Fhydrabad.png?alt=media&token=b67f5de1-e043-4fbd-9873-a02807d8aa30"
     },
     {
         "id":"7",
         "city":"Lucknow",
-        "img":"https://firebasestorage.googleapis.com/v0/b/employeeexperience-f3377.appspot.com/o/Locations%2Flucknow.jpeg?alt=media&token=bb555af8-038e-4fdb-bae0-3d7f8fe03b45"
+        "img":"https://firebasestorage.googleapis.com/v0/b/employeeexperience-9f0e2.appspot.com/o/cities%2Flucknow.png?alt=media&token=236e70ae-6cfb-4d5a-afdc-d20e1104e758"
     },
     {
         "id":"8",
         "city":"Mumbai",
-        "img":"https://firebasestorage.googleapis.com/v0/b/employeeexperience-f3377.appspot.com/o/Locations%2Fmumbai.jpeg?alt=media&token=e0b004f1-e730-4201-895d-9e213748ac37"
+        "img":"https://firebasestorage.googleapis.com/v0/b/employeeexperience-9f0e2.appspot.com/o/cities%2FMumbai%20.png?alt=media&token=dc73a800-9a31-44ac-8a1e-21dcbd870341"
     },
     {
         "id":"9",
         "city":"Nagpur",
-        "img":"https://firebasestorage.googleapis.com/v0/b/employeeexperience-f3377.appspot.com/o/Locations%2Fnapur.webp?alt=media&token=ef0d423d-1b91-4d2e-b11b-40a52cfa1d13"
+        "img":"https://firebasestorage.googleapis.com/v0/b/employeeexperience-9f0e2.appspot.com/o/cities%2FNagpur.png?alt=media&token=af30c39c-93cd-46fa-a296-545404afef51"
     },
     {
         "id":"10",
         "city":"Noida",
-        "img":"https://firebasestorage.googleapis.com/v0/b/employeeexperience-f3377.appspot.com/o/Locations%2Fnoida.jpeg?alt=media&token=173d1e94-b7cd-44a0-a18e-42a8a49a66b1"
+        "img":"https://firebasestorage.googleapis.com/v0/b/employeeexperience-9f0e2.appspot.com/o/cities%2Fnoida.png?alt=media&token=4964d557-5642-4336-a35c-b7268bf0fa30"
     },
     {
         "id":"11",
         "city":"Pune",
-        "img":"https://firebasestorage.googleapis.com/v0/b/employeeexperience-f3377.appspot.com/o/Locations%2FPune.jpeg?alt=media&token=75b90466-b5ec-4369-a804-6056ddfc7b44"
+        "img":"https://firebasestorage.googleapis.com/v0/b/employeeexperience-9f0e2.appspot.com/o/cities%2Fpune.png?alt=media&token=50de4721-9779-4b9e-854f-f4bf8a6b5021"
     }
 ]

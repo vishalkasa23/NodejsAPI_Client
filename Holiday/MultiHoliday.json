@@ -3,77 +3,77 @@
             "id": 1,
             "name": "Makarsankranti / Pongal",
             "title": "14th January : Friday",
-            "img": "https://firebasestorage.googleapis.com/v0/b/employeeexperience-f3377.appspot.com/o/Holidays%2Fmakarsankranti.jpeg?alt=media&token=b0e463a0-cf7b-48f8-a547-b20f438ea953",
+            "img": "https://firebasestorage.googleapis.com/v0/b/employeeexperience-9f0e2.appspot.com/o/holidays%2Fsankarnti.png?alt=media&token=8004ceff-a021-47d5-9482-480326c52964",
             "city":["Hyderabad","Bengaluru","All Cities"]
         },
         {
             "id": 2,
             "name": "Republic Day",
             "title": "26th January : Wednesday",
-            "img": "https://firebasestorage.googleapis.com/v0/b/employeeexperience-f3377.appspot.com/o/Holidays%2FRepublic%20day.png?alt=media&token=994027a2-2961-4289-a604-5c8aa807d943",
+            "img": "https://firebasestorage.googleapis.com/v0/b/employeeexperience-9f0e2.appspot.com/o/holidays%2Frepublic%20day.png?alt=media&token=4fe47e0f-a50e-4914-a299-6cc01e594044",
             "city":["Bhopal","Goa","Gurgaon","Hyderabad","Lucknow","Mumbai","Nagpur","Noida","Pune","Bengaluru","All Cities"]
           },
           {
             "id": 3,
             "name": "Holi (Dhulivandan)",
             "title": "18th March : Friday",
-            "img": "https://firebasestorage.googleapis.com/v0/b/employeeexperience-f3377.appspot.com/o/Holidays%2FScreenshot%202022-05-31%20at%2012.27.51%20PM.png?alt=media&token=c8dd3b59-8411-4780-94eb-0318cd061be5",
+            "img": "https://firebasestorage.googleapis.com/v0/b/employeeexperience-9f0e2.appspot.com/o/holidays%2Fholi.png?alt=media&token=f25ddf10-0630-447d-a8aa-d027971dba58",
             "city":["Bhopal","Gurgaon","Lucknow","Nagpur","Noida","All Cities"]
           },
           {
             "id": 4,
             "name": "Idul Fitr/Ramzan",
             "title": "3rd May : Tuesday",
-            "img": "https://firebasestorage.googleapis.com/v0/b/employeeexperience-f3377.appspot.com/o/Holidays%2FRamzan.jpeg?alt=media&token=08550787-fa1b-46f6-b0ba-56239c6e4daf",
+            "img": "https://firebasestorage.googleapis.com/v0/b/employeeexperience-9f0e2.appspot.com/o/holidays%2Feid.png?alt=media&token=ee81b03b-f513-47ba-861a-577a59d57089",
             "city":["Hyderabad","All Cities"]
           },
           {
             "id": 5,
             "name": "Independence Day",
             "title": "15th August : Monday",
-            "img": "https://firebasestorage.googleapis.com/v0/b/employeeexperience-f3377.appspot.com/o/Holidays%2Finde.jpeg?alt=media&token=32fe29ba-a222-432b-8702-e3ae1f9f9b8d",
+            "img": "https://firebasestorage.googleapis.com/v0/b/employeeexperience-9f0e2.appspot.com/o/holidays%2F15Aug.png?alt=media&token=1a5c3897-27af-4f3a-87cb-9ce4693be94a",
             "city":["Bhopal","Goa","Gurgaon","Hyderabad","Lucknow","Mumbai","Nagpur","Noida","Pune","Bengaluru","All Cities"]
           },
           {
             "id": 6,
             "name": "Ganesh Chaturthi",
             "title": "31st August : Wednesday",
-            "img": "https://firebasestorage.googleapis.com/v0/b/employeeexperience-f3377.appspot.com/o/Holidays%2FGanesh%20Chaturthi.png?alt=media&token=04d82df7-4355-48fa-b0c1-7e2b70d5d176",
+            "img": "https://firebasestorage.googleapis.com/v0/b/employeeexperience-9f0e2.appspot.com/o/holidays%2Fganesh.png?alt=media&token=0979986b-58f6-498b-950b-0bdcba24aba5",
             "city":["Bhopal","Goa","Hyderabad","Lucknow","Mumbai","Nagpur","Pune","Bengaluru","All Cities"]
           },
           {
             "id": 7,
             "name": "Ananth Chaturdashi",
             "title": "9th September : Friday",
-            "img": "https://firebasestorage.googleapis.com/v0/b/employeeexperience-f3377.appspot.com/o/Holidays%2FAnanth%20Chaturdashi.png?alt=media&token=e203aa65-029f-4877-8540-49185f329c14",
+            "img": "https://firebasestorage.googleapis.com/v0/b/employeeexperience-9f0e2.appspot.com/o/holidays%2Fganesh.png?alt=media&token=0979986b-58f6-498b-950b-0bdcba24aba5",
             "city":["Mumbai","Pune","All Cities"]
           },
           {
             "id": 8,
             "name": "Vijayadashamee (Dasara)",
             "title": "5th October : Wednesday",
-            "img": "https://firebasestorage.googleapis.com/v0/b/employeeexperience-f3377.appspot.com/o/Holidays%2Fdasara.jpeg?alt=media&token=1e1d4014-6c04-4b66-a50b-3f9b985aaa70",
+            "img": "https://firebasestorage.googleapis.com/v0/b/employeeexperience-9f0e2.appspot.com/o/holidays%2Fvijaydashmi.png?alt=media&token=320803bc-03e1-44a3-b8bf-7cc6451a949e",
             "city":["Bhopal","Goa","Gurgaon","Hyderabad","Lucknow","Mumbai","Nagpur","Noida","Pune","Bengaluru","All Cities"]
           },
           {
             "id": 9,
             "name": "Narak Chaturdshi / Diwali / Laxmi Poojan",
             "title": "24th October : Monday",
-            "img": "https://firebasestorage.googleapis.com/v0/b/employeeexperience-f3377.appspot.com/o/Holidays%2Fdiwali.jpeg?alt=media&token=9f82e03a-e072-40c7-b0ad-282f433a0e1a",
+            "img": "https://firebasestorage.googleapis.com/v0/b/employeeexperience-9f0e2.appspot.com/o/holidays%2Fdiwali.png?alt=media&token=fa223b2e-169d-48cf-b6f5-b8aad184d1d8",
             "city":["Bhopal","Goa","Gurgaon","Hyderabad","Lucknow","Mumbai","Nagpur","Noida","Pune","Bengaluru","All Cities"]
           },
           {
             "id": 10,
             "name": "Gudhi Padwa",
             "title": "25th October : Tuesday",
-            "img": "https://firebasestorage.googleapis.com/v0/b/employeeexperience-f3377.appspot.com/o/Holidays%2FGudi-Padwa.jpeg?alt=media&token=4f36ac79-2810-49c8-a310-d5607f17efbe",
+            "img": "https://firebasestorage.googleapis.com/v0/b/employeeexperience-9f0e2.appspot.com/o/holidays%2Fgudipadva.png?alt=media&token=823e3594-de28-4fcc-8432-dbfd43239744",
             "city":["Bhopal","Goa","Gurgaon","Hyderabad","Lucknow","Mumbai","Nagpur","Noida","Pune","Bengaluru","All Cities"]
           },
           {
             "id": 11,
             "name": "Bhaubeej",
             "title": "26th October : Wednesday",
-            "img": "https://firebasestorage.googleapis.com/v0/b/employeeexperience-f3377.appspot.com/o/Holidays%2FBhaubeej.png?alt=media&token=6691f0d4-8846-440d-8868-5bb912804ed4",
+            "img": "https://firebasestorage.googleapis.com/v0/b/employeeexperience-9f0e2.appspot.com/o/holidays%2FBhauBeej.png?alt=media&token=f55189b8-be0a-4a14-8888-0f23900d8ee0",
             "city":["Bhopal","Goa","Gurgaon","Lucknow","Mumbai","Nagpur","Noida","Pune","All Cities"]
           },
           
@@ -81,14 +81,14 @@
             "id": 12,
             "name": "Karnataka Rajyotsava",
             "title": "1st November : Tuesday",
-            "img": "https://firebasestorage.googleapis.com/v0/b/employeeexperience-f3377.appspot.com/o/Holidays%2Frajyotsava.webp?alt=media&token=d2af63df-e313-4af7-9d7b-2cc37b24c60e",
+            "img": "https://firebasestorage.googleapis.com/v0/b/employeeexperience-9f0e2.appspot.com/o/holidays%2FKannda%20Rajyotsava.png?alt=media&token=ea469621-1b93-4309-8004-a51f469bcff4",
             "city":["Bengaluru","All Cities"]
           },
           {
             "id": 13,
             "name": "Gurunanak Jayanti",
             "title": "8th November : Tuesday",
-            "img": "https://firebasestorage.googleapis.com/v0/b/employeeexperience-f3377.appspot.com/o/Holidays%2Fgurunanakjayanti.jpeg?alt=media&token=785bdb5f-ff88-4cd2-b168-002f1354256a",
+            "img": "https://firebasestorage.googleapis.com/v0/b/employeeexperience-9f0e2.appspot.com/o/holidays%2Fgurunank.png?alt=media&token=ddbe689d-6bf8-4f3f-b8db-8c7b50a3e31b",
             "city":["Gurgaon","Noida","All Cities"]
           },
 
@@ -96,7 +96,7 @@
             "id": 14,
             "name": "Goa Liberation Day",
             "title": "19th December : Monday",
-            "img": "https://firebasestorage.googleapis.com/v0/b/employeeexperience-f3377.appspot.com/o/Holidays%2FGoa-Liberation-Day-messages.jpeg?alt=media&token=3666defb-57e2-4de9-a5fc-3e2c87777736",
+            "img": "https://firebasestorage.googleapis.com/v0/b/employeeexperience-9f0e2.appspot.com/o/holidays%2FgoaLibertion%20day.png?alt=media&token=7b987442-3140-45f5-8344-eeb06e97412f",
             "city":["Goa","All Cities"]
           }
 ]

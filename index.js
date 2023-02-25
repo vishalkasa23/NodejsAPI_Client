@@ -43,46 +43,6 @@ app.get("/techstack",(req,res)=>{
 app.get("/techstacktype",(req,res)=>{
     res.send(techStackstype)
 })
-// app.get("/courses", function(req, res) {
-//   res.send(courses); //respond with the array of courses
-// });
-// app.get("/courses/:id", function(req, res) {
-//   const course = courses.find(c => c.id === parseInt(req.params.id));
-//   if (!course)
-//       return res
-//           .status(404)
-//           .send("The course with the given id was not found");
-//   res.send(course);
-// });
-// app.post("/courses", function(req, res) {
-//   const course = {
-//       id: courses.length + 1,
-//       name: req.body.name
-//   };
-//   courses.push(course);
-//   res.send(course);
-// });
-
-// app.put("/courses/:id", function(req, res) {
-//   const course = courses.find(c => c.id === parseInt(req.params.id));
-//   if (!course)
-//       return res
-//           .status(404)
-//           .send("The course with the given id was not found");
-//   course.name = req.body.name;
-//   res.send(course);
-// });
-
-// app.put("/courses/:id", function(req, res) {
-//   const course = courses.find(c => c.id === parseInt(req.params.id));
-
-//   if (!course)
-//       return res
-//           .status(404)
-//           .send("The course with the given id was not found");
-//   course.name = req.body.name;
-//   res.send(course);
-// });
  app.listen(port, ()=>{
     console.log(`Example app is listening on port http://localhost:${port}`)
  });

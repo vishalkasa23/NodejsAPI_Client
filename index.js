@@ -2,10 +2,10 @@ const express = require("express");
 const app = express();
 //const crouse=require("./Crousal/Crouse.json")
 const building=require("./WFO/Building.json")
-// const Holiday=require("./Holiday/MultiHoliday.json")
-// const city=require("./Holiday/city.json")
- const foodlist=require("./Cafeteria/foodlist.json")
- const cityfood=require("./Cafeteria/cityfood.json")
+const Holiday=require("./Holiday/MultiHoliday.json")
+const city=require("./Holiday/city.json")
+const foodlist=require("./Cafeteria/foodlist.json")
+const cityfood=require("./Cafeteria/cityfood.json")
 // const techStacks=require("./Upskill/techStacks.json")
 // const techStackstype=require("./Upskill/techStackType.json")
  //const courses=require("./courses")
@@ -21,9 +21,9 @@ app.get("/", (req,res)=>{
 app.get("/building",(req,res)=>{
     res.send(building)
 })
-// app.get("/holiday",(req,res)=>{
-//     res.send(Holiday)
-// })
+app.get("/holiday",(req,res)=>{
+    res.send(Holiday)
+})
 app.get("/city",(req,res)=>{
     res.send(city)
 })
